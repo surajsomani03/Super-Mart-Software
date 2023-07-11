@@ -1,5 +1,5 @@
 # Super-Mart-Software
-# This project is developed using the java  swing components, using JDBS connectivety
+# This project is developed using the java  swing components, using JDBC connectivety
 
 ![1 splash screen](https://github.com/suru03/Super-Mart-Software/assets/107910750/ab4c9d17-f7d5-46f3-b425-683b4104cafa)
 
